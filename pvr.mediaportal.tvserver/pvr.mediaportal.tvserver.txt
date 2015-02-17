@@ -1,1 +1,1 @@
-pvr.mediaportal.tvserver https://github.com/notspiff/pvr.mediaportal.tvserver 2029a1e
+pvr.mediaportal.tvserver https://github.com/notspiff/pvr.mediaportal.tvserver 3d4d4f6

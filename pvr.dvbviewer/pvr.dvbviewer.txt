@@ -1,1 +1,1 @@
-pvr.dvbviewer https://github.com/notspiff/pvr.dvbviewer 820ed2f
+pvr.dvbviewer https://github.com/notspiff/pvr.dvbviewer ebac6cc

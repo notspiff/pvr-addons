@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/notspiff/pvr.vuplus 439eb29
+pvr.vuplus https://github.com/notspiff/pvr.vuplus 7853896
