@@ -1,1 +1,1 @@
-pvr.nextpvr https://github.com/notspiff/pvr.nextpvr 02376e0
+pvr.nextpvr https://github.com/notspiff/pvr.nextpvr 1c34392

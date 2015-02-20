@@ -1,1 +1,1 @@
-pvr.vdr.vnsi https://github.com/notspiff/pvr.vdr.vnsi a809cce
+pvr.vdr.vnsi https://github.com/notspiff/pvr.vdr.vnsi de462a4
