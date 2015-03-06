@@ -1,1 +1,1 @@
-pvr.hts https://github.com/notspiff/pvr.hts bbebcde
+pvr.hts https://github.com/kodi-pvr/pvr.hts origin/master

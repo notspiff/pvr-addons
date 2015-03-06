@@ -1,1 +1,1 @@
-pvr.mythtv https://github.com/janbar/pvr.mythtv fba2383
+pvr.mythtv https://github.com/kodi-pvr/pvr.mythtv origin/master

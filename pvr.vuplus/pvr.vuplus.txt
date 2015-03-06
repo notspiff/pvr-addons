@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/notspiff/pvr.vuplus 7853896
+pvr.vuplus https://github.com/kodi-pvr/pvr.vuplus origin/master

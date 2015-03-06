@@ -1,1 +1,1 @@
-pvr.argustv https://github.com/notspiff/pvr.argustv 1f1ec76
+pvr.argustv https://github.com/kodi-pvr/pvr.argustv origin/master

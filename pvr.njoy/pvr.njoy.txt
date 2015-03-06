@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/notspiff/pvr.njoy 4d991bd
+pvr.njoy https://github.com/kodi-pvr/pvr.njoy origin/master

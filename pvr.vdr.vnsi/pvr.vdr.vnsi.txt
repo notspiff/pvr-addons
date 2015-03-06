@@ -1,1 +1,1 @@
-pvr.vdr.vnsi https://github.com/notspiff/pvr.vdr.vnsi de462a4
+pvr.vdr.vnsi https://github.com/kodi-pvr/pvr.vdr.vnsi origin/master

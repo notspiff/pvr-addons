@@ -1,1 +1,1 @@
-pvr.filmon https://github.com/notspiff/pvr.filmon 1f87cc7
+pvr.filmon https://github.com/kodi-pvr/pvr.filmon origin/master

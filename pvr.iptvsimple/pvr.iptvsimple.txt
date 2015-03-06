@@ -1,1 +1,1 @@
-pvr.iptvsimple https://github.com/notspiff/pvr.iptvsimple 853e24d
+pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple origin/master
